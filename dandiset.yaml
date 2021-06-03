@@ -42,9 +42,13 @@ contributor:
   - dandi:Author
   schemaKey: Person
 - affiliation:
-  - includeInCitation: false
+  - contactPoint: []
+    identifier: https://ror.org/013sk6x84
+    includeInCitation: false
     name: Janelia Research Campus, Howard Hughes Medical Institute
+    roleName: []
     schemaKey: Organization
+  identifier: 0000-0002-6670-7362
   includeInCitation: true
   name: Svoboda, Karel
   roleName:
@@ -68,6 +72,7 @@ relatedResource:
   relation: dandi:IsDescribedBy
   url: https://doi.org/10.1038/nn.4412
 repository: https://dandiarchive.org/
+schemaKey: Dandiset
 schemaVersion: 0.3.0
 studyTarget: []
 url: https://dandiarchive.org/000005/draft
