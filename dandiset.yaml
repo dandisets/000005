@@ -103,6 +103,8 @@ name: Electrophysiology data from thalamic and cortical neurons during somatosen
 protocol: []
 relatedResource:
 - identifier: doi:10.1038/nn.4412
+  name: Layer 4 fast-spiking interneurons filter thalamocortical signals during active
+    somatosensation
   relation: dcite:IsDescribedBy
   schemaKey: Resource
   url: https://doi.org/10.1038/nn.4412
