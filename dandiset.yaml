@@ -43,13 +43,12 @@ assetsSummary:
   - OptogeneticSeries
   - ElectrodeGroup
   - Units
-citation: Yu, Jianing; Gutnisky, Diego A; Hires, S Andrew; Svoboda, Karel (2022) Electrophysiology
+citation: Yu, Jianing; Gutnisky, Diego A; Hires, S Andrew; Svoboda, Karel (2025) Electrophysiology
   data from thalamic and cortical neurons during somatosensation (Version draft) [Data
-  set]. DANDI archive. https://dandiarchive.org/dandiset/000005/draft
+  set]. DANDI Archive. https://dandiarchive.org/dandiset/000005/draft
 contributor:
 - affiliation:
-  - includeInCitation: false
-    name: Janelia Research Campus, Howard Hughes Medical Institute
+  - name: Janelia Research Campus, Howard Hughes Medical Institute
     schemaKey: Affiliation
   includeInCitation: true
   name: Yu, Jianing
@@ -57,8 +56,7 @@ contributor:
   - dcite:Author
   schemaKey: Person
 - affiliation:
-  - includeInCitation: false
-    name: Janelia Research Campus, Howard Hughes Medical Institute
+  - name: Janelia Research Campus, Howard Hughes Medical Institute
     schemaKey: Affiliation
   includeInCitation: true
   name: Gutnisky, Diego A
@@ -66,8 +64,7 @@ contributor:
   - dcite:Author
   schemaKey: Person
 - affiliation:
-  - includeInCitation: false
-    name: Janelia Research Campus, Howard Hughes Medical Institute
+  - name: Janelia Research Campus, Howard Hughes Medical Institute
     schemaKey: Affiliation
   includeInCitation: true
   name: Hires, S Andrew
@@ -75,11 +72,8 @@ contributor:
   - dcite:Author
   schemaKey: Person
 - affiliation:
-  - contactPoint: []
-    identifier: https://ror.org/013sk6x84
-    includeInCitation: false
+  - identifier: https://ror.org/013sk6x84
     name: Janelia Research Campus, Howard Hughes Medical Institute
-    roleName: []
     schemaKey: Affiliation
   identifier: 0000-0002-6670-7362
   includeInCitation: true
@@ -109,7 +103,7 @@ relatedResource:
   relation: dcite:IsDescribedBy
   schemaKey: Resource
   url: https://doi.org/10.1038/nn.4412
-repository: https://dandiarchive.org/
+repository: https://dandiarchive.org
 schemaKey: Dandiset
 schemaVersion: 0.6.0
 studyTarget: []
